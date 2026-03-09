@@ -30,5 +30,5 @@
 
 Запрос: 
 ``` 
-https://portal.loc/local/scripts/catalogExport/export.php?section_id=15```
-
+https://portal.loc/local/scripts/catalogExport/export.php?section_id=15
+```
