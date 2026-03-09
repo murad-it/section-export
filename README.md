@@ -26,3 +26,9 @@
 
 ```text
 Максимум: 2000 товаров в одном пакете
+```
+
+Запрос: 
+``` 
+https://portal.loc/local/scripts/catalogExport/export.php?section_id=15```
+
